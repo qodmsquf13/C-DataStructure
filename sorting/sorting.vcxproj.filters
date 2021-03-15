@@ -21,9 +21,15 @@
     <ClCompile Include="sorting.c">
       <Filter>sourse</Filter>
     </ClCompile>
+    <ClCompile Include="UsefulHeap.c">
+      <Filter>sourse</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="sorting.h">
+      <Filter>header</Filter>
+    </ClInclude>
+    <ClInclude Include="UsefulHeap.h">
       <Filter>header</Filter>
     </ClInclude>
   </ItemGroup>

@@ -141,9 +141,11 @@
   <ItemGroup>
     <ClCompile Include="main.c" />
     <ClCompile Include="sorting.c" />
+    <ClCompile Include="UsefulHeap.c" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="sorting.h" />
+    <ClInclude Include="UsefulHeap.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
